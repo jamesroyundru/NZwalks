@@ -1,1 +1,1 @@
-NZ walks API
+# NZWalks

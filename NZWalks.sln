@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NZWalks.Api", "NZWalks.Api.csproj", "{C641597C-086F-49E5-B74A-104E977B511E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web-API-Versioning.API", "..\Web-API-Versioning.API\Web-API-Versioning.API.csproj", "{1BD90FFB-058C-4FCD-B2A6-04C41CE69A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NZWalks.UI", "..\NZWalks.UI\NZWalks.UI.csproj", "{21E561D1-0B14-470D-A7F9-90A222403905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C641597C-086F-49E5-B74A-104E977B511E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C641597C-086F-49E5-B74A-104E977B511E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C641597C-086F-49E5-B74A-104E977B511E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C641597C-086F-49E5-B74A-104E977B511E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD90FFB-058C-4FCD-B2A6-04C41CE69A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD90FFB-058C-4FCD-B2A6-04C41CE69A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD90FFB-058C-4FCD-B2A6-04C41CE69A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD90FFB-058C-4FCD-B2A6-04C41CE69A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E561D1-0B14-470D-A7F9-90A222403905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E561D1-0B14-470D-A7F9-90A222403905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E561D1-0B14-470D-A7F9-90A222403905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E561D1-0B14-470D-A7F9-90A222403905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {588F0FC3-D7EA-408E-9E00-2A657FA39820}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+	EndGlobalSection
+EndGlobal
